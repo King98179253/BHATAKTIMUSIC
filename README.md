@@ -30,4 +30,4 @@
 
 ### Deploy To Heroku
 
-[![Depl https://heroku.com/deploy?template=https://github.com/King98179253/BHATAKTIMUSIC.git oy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/King98179253/BHATAKTIMUSIC.git)
+[![Depl https://heroku.com/deploy?template=https://github.com/King98179253/BHATAKTIMUSIC.git](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/King98179253/BHATAKTIMUSIC.git)
