@@ -17,7 +17,7 @@
     "BOT_USERNAME": {
       "description": "Put Bot Username Without '@' Ex:- ZINDA_H_TU_MERE_LIYE_HEART_HACK",
       "required": true,
-      "value": "BACK_BENCHERS_bot"
+      "value": "MY_SAFTY_bot"
     },
     "API_ID": {
       "description": "App ID from my.telegram.org/apps",
