@@ -224,7 +224,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="╭𝐉𝐎𝐈𝐍 𝐌𝐘 𝐆𝐑𝐎𝐔𝐏╮",
+                            text="𒋲〚⚜️𝐉𝐎𝐈𝐍⚜️』𒋲",
                             url=f"https://t.me/SUBHI_WORLD")
 
                 ]
@@ -240,7 +240,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="╰𝗝𝗢𝗜𝗡 𝗛𝗘𝗥𝗘 𝗙𝗢𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧╯",
+                            text="╰𒋲〚⚜️𝐉𝐎𝐈𝐍⚜️』𒋲╯",
                             url=f"https://t.me/SUBHI_WORLD")
 
                 ]
@@ -295,7 +295,7 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="╰𝗝𝗢𝗜𝗡 𝗙𝗢𝗥 𝗦𝗨𝗣𝗣𝗢𝗥𝗧╯",
+                            text="╰𒋲〚⚜️𝐉𝐎𝐈𝐍⚜️』𒋲╯",
                             url=f"https://t.me/SUBHI_WORLD")
 
                 ]
