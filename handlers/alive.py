@@ -39,9 +39,9 @@ async def start_(client: Client, message: Message):
 💥 𝗛𝗘𝗟𝗟𝗢, 𝗜 𝗔𝗠 𝗦𝗨𝗣𝗘𝗥 𝗙𝗔𝗦𝗧 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥
 𝗕𝗢𝗧 𝗙𝗢𝗥 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ 𝗖𝗥𝗘𝗔𝗧𝗘𝗥 : [⚠️𝗕𝗛𝗔𝗧𝗔𝗞𝗧𝗜_𝗔𝗧𝗠𝗔⚠️](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
-┣★ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 : [⚜️𝗔𝗡𝗬_𝗤𝗨𝗘𝗦𝗧𝗜𝗢𝗡⚜️](https://t.me/lovely_friends_2)
-┣★ 𝗦𝗢𝗨𝗥𝗖𝗘 : [𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲🔐](https://t.me/ABOUT_BHATAKTI/175)
+┣★ 𝗖𝗥𝗘𝗔𝗧𝗘𝗥 : [𝗕𝗛𝗔𝗧𝗔𝗞𝗧𝗜_𝗔𝗧𝗠𝗔](https://t.me/ZINDA_H_TU_MERE_LIYE_HEART_HACK)
+┣★ 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 : [𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://t.me/SUBHI_WORLD)
+┣★ 𝗦𝗢𝗨𝗥𝗖𝗘 : [𝗖𝗹𝗶𝗰𝗸 𝗛𝗲𝗿𝗲](https://t.me/A_BUT)
 ┗━━━━━━━━━━━━━━━━━┛
 
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
@@ -49,7 +49,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😆 ❰ 𝗟𝗘 𝗖𝗛𝗟𝗢 𝗨𝗧𝗛𝗔 𝗞𝗘 ❱ 😆", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕❰𝗞𝗜𝗗𝗡𝗔𝗣 𝗠𝗘❱➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ]
                 
            ]
@@ -66,7 +66,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 𝙅𝙤𝙞𝙣 𝙃𝙚𝙧𝙚 𝘼𝙣𝙙 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 💞", url=f"https://t.me/lovely_friends_2")
+                        "𝙅𝙤𝙞𝙣 𝙃𝙚𝙧𝙚 𝘼𝙣𝙙 𝙎𝙪𝙥𝙥𝙤𝙧𝙩", url=f"https://t.me/SUBHI_WORLD")
                 ]
             ]
         ),
@@ -82,7 +82,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😆𝗥𝗘𝗣𝗢 𝗟𝗔𝗡𝗜 𝗛 😆", url=f"https://t.me/lovely_friends_2")
+                        "😆𝗥𝗘𝗣𝗢 𝗟𝗔𝗡𝗜 𝗛 😆", url=f"https://t.me/SUBHI_WORLD")
                 ]
             ]
         ),
